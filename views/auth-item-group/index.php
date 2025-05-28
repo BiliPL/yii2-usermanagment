@@ -7,7 +7,7 @@ use yii\helpers\Url;
 use yii\helpers\ArrayHelper;
 use yii\widgets\Pjax;
 use bilipl\extensions\GridBulkActions\GridBulkActions;
-use bilipl\modules\UserManagement\gridpagesize\GridPageSize;
+use bilipl\modules\UserManagement\GridPageSize\GridPageSize;
 use yii\grid\GridView;
 
 /**

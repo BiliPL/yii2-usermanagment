@@ -1,5 +1,5 @@
 <?php
-namespace bilipl\modules\UserManagement\actions;
+namespace bilipl\modules\UserManagement\GridBulkActions;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
