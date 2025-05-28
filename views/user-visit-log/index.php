@@ -3,7 +3,7 @@ use bilipl\modules\UserManagement\picker\DateRangePicker;
 use bilipl\modules\UserManagement\UserManagementModule;
 use yii\helpers\Html;
 use yii\widgets\Pjax;
-use bilipl\extensions\GridPageSize\GridPageSize;
+use bilipl\modules\UserManagement\gridpagesize\GridPageSize;
 use yii\grid\GridView;
 
 /**
