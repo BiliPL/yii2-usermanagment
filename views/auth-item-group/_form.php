@@ -2,12 +2,12 @@
 
 use bilipl\modules\UserManagement\UserManagementModule;
 use yii\helpers\Html;
-use yii\bootstrap\ActiveForm;
+use yii\bootstrap5\ActiveForm;
 
 /**
  * @var yii\web\View $this
  * @var bilipl\modules\UserManagement\models\rbacDB\AuthItemGroup $model
- * @var yii\bootstrap\ActiveForm $form
+ * @var yii\bootstrap5\ActiveForm $form
  */
 ?>
 <div class="auth-item-group-form">
