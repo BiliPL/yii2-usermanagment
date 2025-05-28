@@ -1,5 +1,4 @@
 <?php
-
 namespace bilipl\modules\UserManagement\controllers;
 use bilipl\modules\UserManagement\components\BaseController;
 use bilipl\modules\UserManagement\components\UserAuthEvent;

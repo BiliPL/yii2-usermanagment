@@ -8,8 +8,10 @@ use yii\helpers\Html;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Url;
 use yii\widgets\Pjax;
-use bilipl\extensions\GridBulkActions\GridBulkActions;
-use bilipl\extensions\GridPageSize\GridPageSize;
+//use bilipl\extensions\GridBulkActions\GridBulkActions;
+use bilipl\modules\UserManagement\actions\GridBulkActions;
+use bilipl\modules\UserManagement\size\GridPageSize;
+//use bilipl\extensions\GridPageSize\GridPageSize;
 use yii\grid\GridView;
 
 /**

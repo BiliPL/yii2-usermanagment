@@ -1,8 +1,5 @@
 <?php
-
 namespace bilipl\modules\UserManagement\controllers;
-
-
 use bilipl\modules\UserManagement\components\AuthHelper;
 use bilipl\modules\UserManagement\models\rbacDB\AbstractItem;
 use bilipl\modules\UserManagement\models\rbacDB\Permission;

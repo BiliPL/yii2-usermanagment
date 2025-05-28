@@ -1,7 +1,5 @@
 <?php
-
 namespace bilipl\modules\UserManagement;
-
 use Yii;
 use yii\helpers\ArrayHelper;
 
